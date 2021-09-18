@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Node.js**
 
+- 💞️ I’m looking to collaborate on challenging projects
+
 - 👨‍💻 All of my projects are available at [https://konception.io/](https://konception.io/)
 
 - 📫 How to reach me **[https://konception.io/contact](https://konception.io/contact)**
