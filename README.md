@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Jawel
-- 👀 I’m interested in learning new stacks
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me https://konception.io/contact
-
 <h1 align="center">Hi 👋, I'm Jawel</h1>
 <h3 align="center">A curious & passionate FullStack developer from France</h3>
 
