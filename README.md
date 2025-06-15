@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [MeDoc](https://github.com/Jawkel/MeDoc)
 
-- 🌱 I’m currently learning **Node.js**
-
 - 💞️ I’m looking to collaborate on challenging projects
 
 - 👨‍💻 All of my projects are available at [https://konception.io/](https://konception.io/)
